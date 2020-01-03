@@ -1,0 +1,12 @@
+Solutions: 
+1) It is the same code as the one printed
+2)  counter=1 #declares variable counter with an initial value of 1
+    while counter<30:
+        #after loops always remember to add ':' and to leave a tab before each line of the loop's code. 
+        #Python identifies this as code within the loop
+        counter+=1 #increments counter by 1. 
+                    #It can also be written as counter=counter+1
+        
+        # same code as printed 
+        
+    # when you do not leave tabs and write vertically below or before the loop Python accepts that as a break from the loop
